@@ -1,0 +1,6 @@
+# Example cordis.yml overlay for loading the dsh-grill plugin.
+# Replace the path below with the absolute path to src/index.ts on your machine,
+# then start dsh with:  pnpm dsh web --patch ./cordis.yml
+- insert:
+    - id: dsh-grill
+      name: 'C:/AI-SKLII/dsh-grill-me(plan)/dsh-grill-plugin/src/index.ts'

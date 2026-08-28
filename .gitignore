@@ -1,0 +1,56 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build output
+dist/
+build/
+*.js
+*.js.map
+*.d.ts
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# DSH local data
+.dsh/sessions/
+.dsh/cache/
+.dsh/logs/
+.dsh/attachments/
+.dsh/storages/
+.dsh/task-board/
+.dsh/dsh-memento/
+.dsh/repair-tmp/
+.dsh/launcher/
+.dsh/office/
+.dsh/skin-center/
+.dsh/profiles/
+.dsh/plugins/
+.dsh/llm-deepseek/
+.dsh/.agent-presets/
+.dsh/.anonymous-user-id
+.dsh/pet.json
+.dsh/settings.yaml
+.dsh/settings.yaml.bak
+.dsh/skin-center-active.json
+.dsh/verify-boot*.log
+
+# Temporary files
+*.tmp
+*.temp
