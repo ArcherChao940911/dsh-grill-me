@@ -237,7 +237,3 @@ vim .dsh/skills/grill-me/SKILL.md
 
 本项目基于 MIT 许可证开源 - 查看 [LICENSE](LICENSE) 文件了解详情
 
-## 联系方式
-
-- 项目链接：[https://github.com/your-username/dsh-grill-me](https://github.com/your-username/dsh-grill-me)
-- 问题反馈：[Issues](https://github.com/your-username/dsh-grill-me/issues)
