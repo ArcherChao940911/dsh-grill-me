@@ -14,7 +14,7 @@
   - 12.5 插件导出格式总结
   - 12.6 常见错误及解决方案
 
-**文件位置**：`C:\AI-SKLII\dsh-grill-me(plan)\SPEC.md`
+**文件位置**：`C:\AI-SKLII\dsh-grill-me\SPEC.md`
 
 ### 任务 2：创建项目状态总结文档 ✅
 
@@ -27,7 +27,7 @@
   - 风险评估和成功标准
   - 资源需求和沟通计划
 
-**文件位置**：`C:\AI-SKLII\dsh-grill-me(plan)\PROJECT_STATUS.md`
+**文件位置**：`C:\AI-SKLII\dsh-grill-me\PROJECT_STATUS.md`
 
 ## 解决方案实施
 
@@ -91,11 +91,11 @@ Error: invalid arguments: "plugin" must match exactly one oneOf branch (matched 
 
 | 文档 | 路径 | 状态 |
 | --- | --- | --- |
-| SPEC.md | `C:\AI-SKLII\dsh-grill-me(plan)\SPEC.md` | ✅ 已更新 |
-| PROJECT_STATUS.md | `C:\AI-SKLII\dsh-grill-me(plan)\PROJECT_STATUS.md` | ✅ 已创建 |
-| WORK_SUMMARY.md | `C:\AI-SKLII\dsh-grill-me(plan)\WORK_SUMMARY.md` | ✅ 已创建 |
-| README.md | `C:\AI-SKLII\dsh-grill-me(plan)\dsh-grill-plugin\README.md` | ✅ 已存在 |
-| 插件代码 | `C:\AI-SKLII\dsh-grill-me(plan)\dsh-grill-plugin\src\index.ts` | ✅ 已实现 |
+| SPEC.md | `C:\AI-SKLII\dsh-grill-me\SPEC.md` | ✅ 已更新 |
+| PROJECT_STATUS.md | `C:\AI-SKLII\dsh-grill-me\PROJECT_STATUS.md` | ✅ 已创建 |
+| WORK_SUMMARY.md | `C:\AI-SKLII\dsh-grill-me\WORK_SUMMARY.md` | ✅ 已创建 |
+| README.md | `C:\AI-SKLII\dsh-grill-me\dsh-grill-plugin\README.md` | ✅ 已存在 |
+| 插件代码 | `C:\AI-SKLII\dsh-grill-me\dsh-grill-plugin\src\index.ts` | ✅ 已实现 |
 
 ## 结论
 

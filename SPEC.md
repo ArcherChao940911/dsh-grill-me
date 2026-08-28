@@ -468,7 +468,7 @@ export function apply(ctx: Context) {
 ```yaml
 - insert:
     - id: dsh-grill
-      name: 'C:/AI-SKLII/dsh-grill-me(plan)/dsh-grill-plugin/src/index.ts'
+      name: 'C:/AI-SKLII/dsh-grill-me/dsh-grill-plugin/src/index.ts'
 ```
 
 ### 11.5 dsh skills API 速查（开发时对照）

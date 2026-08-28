@@ -47,7 +47,7 @@
 
 **最终项目结构**：
 ```
-dsh-grill-me(plan)/
+dsh-grill-me/
 ├── .dsh/skills/               # dsh 技能目录（已配置）
 │   ├── domain-modeling/SKILL.md
 │   ├── grill-me/SKILL.md

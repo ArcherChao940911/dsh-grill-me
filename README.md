@@ -137,7 +137,7 @@ dsh web
 ## 项目结构
 
 ```
-dsh-grill-me(plan)/
+dsh-grill-me/
 ├── SPEC.md                    # 规格说明书
 ├── PROJECT_STATUS.md          # 项目状态报告
 ├── WORK_SUMMARY.md            # 工作总结
@@ -239,5 +239,5 @@ vim .dsh/skills/grill-me/SKILL.md
 
 ## 联系方式
 
-- 项目链接：[https://github.com/your-username/dsh-grill-me(plan)](https://github.com/your-username/dsh-grill-me(plan))
-- 问题反馈：[Issues](https://github.com/your-username/dsh-grill-me(plan)/issues)
+- 项目链接：[https://github.com/your-username/dsh-grill-me](https://github.com/your-username/dsh-grill-me)
+- 问题反馈：[Issues](https://github.com/your-username/dsh-grill-me/issues)

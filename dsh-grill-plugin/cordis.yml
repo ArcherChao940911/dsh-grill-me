@@ -3,4 +3,4 @@
 # then start dsh with:  pnpm dsh web --patch ./cordis.yml
 - insert:
     - id: dsh-grill
-      name: 'C:/AI-SKLII/dsh-grill-me(plan)/dsh-grill-plugin/src/index.ts'
+      name: 'C:/AI-SKLII/dsh-grill-me/dsh-grill-plugin/src/index.ts'
